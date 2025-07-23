@@ -1,4 +1,4 @@
-# Contact Center Coding Challenge
+# Description
 
 This repository contains a Python solution to the Contact Center Coding Challenge, which involves finding all occurrences of a given subtext within a larger text, with restricting the usage of some built in method for string mainpulation.
 
